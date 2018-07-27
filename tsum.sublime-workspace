@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"category"
+			],
+			[
+				"login",
+				"loginType"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"prod",
+				"productPut"
+			],
+			[
+				"userLo",
+				"userLogout"
+			],
+			[
+				"aut",
+				"authorization"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"dat",
+				"data_arr"
+			],
+			[
+				"metho",
+				"methodValidate"
+			],
+			[
+				"req",
+				"requestValidate"
+			],
+			[
+				"Ware",
+				"WarehouseController"
+			],
+			[
+				"is",
+				"isSuccessAuth"
+			],
+			[
+				"succe",
+				"successAuth"
+			],
+			[
+				"auth",
+				"authType"
+			],
+			[
+				"mask",
+				"maskedInput"
+			],
+			[
+				"mas",
+				"masked-input"
+			],
+			[
+				"o",
+				"owner"
+			],
+			[
+				"ware",
+				"warehouse-container"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"error_",
+				"error_reporting"
+			],
+			[
+				"best",
+				"best_tarifs"
+			],
+			[
+				"best_ta",
+				"best_tarifs_user"
+			],
+			[
+				"be",
+				"space-between"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"cu",
+				"current_page"
+			],
+			[
+				"ar",
+				"arResult"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "front/components/forms/AuthForm.vue",
+			"settings":
+			{
+				"buffer_size": 3118,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/api/index.php",
+			"settings":
+			{
+				"buffer_size": 398,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/warehouse/WarehouseController.php",
+			"settings":
+			{
+				"buffer_size": 4094,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/warehouse/Storage.php",
+			"settings":
+			{
+				"buffer_size": 633,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/warehouse/Product.php",
+			"settings":
+			{
+				"buffer_size": 1164,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/warehouse/Authorization.php",
+			"settings":
+			{
+				"buffer_size": 2990,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/grantey/OSPanel/domains/tsum-tz",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/assets",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/config",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/forms",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/sql",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/sql/examples",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/models",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/warehouse",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/warehouse/interfaces",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web/api"
+	],
+	"file_history":
+	[
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/models/Warehouse.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/models/Product.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/sql/product.sql",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/sql/warehouse.sql",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/Migration.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/warehouse/ProductFactory.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/warehouse/Authorization.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/warehouse/Product.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/config/main.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web/api/register.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web/api/test.txt",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web/index.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/App.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web/api/migrate.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/vendor/phpauth/phpauth/Auth.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/warehouse/interfaces/IAuthorization.php",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/forms/AuthForm.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/pages/Index.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/composer.json",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/sql/delight.sql",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/src/migrations/sql/phpauth.sql",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/pages/Warehouse.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/config.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/forms/WarehouseGetForm.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/widgets/WarehouseBlock.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/forms/WarehousePutForm.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/router/items.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/pages/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/forms/WarehouseForm",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/app.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/package.json",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/webpack.config.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/web/assets/style.scss",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/NavBar.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/security/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/filters/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/trans.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/store/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/utils/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/validator.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/security.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/lodash.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/flatpickr.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/router/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/router/menu.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/http/index.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/components/NotFound.vue",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/front/plugins/buefy.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/assets/style.css",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/assets/bundle.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/assets/app.js",
+		"/C/Users/grantey/OSPanel/domains/tsum-tz/package-lock.json",
+		"/W/domains/tsum-tz/web/index.php",
+		"/E/programs/openserver/domains/tsum-tz/src/warehouse/Storage.php",
+		"/W/domains/tsum-tz/composer.json",
+		"/W/domains/tsum-tz/assets/app.js",
+		"/W/domains/tsum-tz/assets/components/index.js",
+		"/W/domains/tsum-tz/assets/components/App.vue",
+		"/E/programs/openserver/domains/ClientAccount/webpack.config.js",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/delight.sql",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/base.sql",
+		"/E/programs/openserver/domains/tsum-tz/src/warehouse/Authorization.php",
+		"/E/programs/openserver/domains/tsum-tz/src/warehouse/Migration.php",
+		"/W/domains/tsum-tz/web/migrate.php",
+		"/W/domains/tsum-tz/src/migrations/migration.php",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/examples/0003_insert_data_into_users.sql",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/examples/0004_add_column_active_to_users.sql",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/examples/0001_base.sql",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/examples/0002_add_users.sql",
+		"/E/Downloads/tsum/sql/0001_base.sql",
+		"/E/Downloads/tsum/sql/0004_add_column_active_to_users.sql",
+		"/E/Downloads/tsum/sql/0003_insert_data_into_users.sql",
+		"/E/Downloads/tsum/sql/0002_add_users.sql",
+		"/W/domains/tsum-tz/src/migrations/sql/base.sql",
+		"/W/domains/tsum-tz/vendor/composer/autoload_psr4.php",
+		"/E/Programs/openserver/domains/tsum-tz/composer.json",
+		"/E/programs/openserver/domains/tsum-tz/config/main.php",
+		"/E/programs/openserver/domains/tsum-tz/vendor/composer/autoload_psr4.php",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/migration.php",
+		"/E/programs/openserver/domains/tsum-tz/web/migrate.php",
+		"/E/Programs/openserver/domains/tsum-tz/web/index.php",
+		"/E/Programs/openserver/domains/tsum-tz/vendor/composer/autoload_psr4.php",
+		"/E/Programs/openserver/domains/tsum-tz/vendor/composer/autoload_real.php",
+		"/E/programs/openserver/domains/tsum-tz/vendor/autoload.php",
+		"/E/Programs/openserver/domains/tsum-tz/vendor/autoload.php",
+		"/E/Programs/openserver/domains/tsum-tz/vendor/composer/autoload_namespaces.php",
+		"/E/programs/openserver/domains/tsum-tz/web/migration.php",
+		"/E/programs/openserver/domains/symfony-demo/src/Kernel.php",
+		"/E/programs/openserver/domains/symfony-demo/public/index.php",
+		"/E/Programs/openserver/domains/tsum-tz/.htaccess",
+		"/C/Users/grantey/ospanel/domains/CentrsvAccount/public/index.php",
+		"/E/programs/openserver/domains/symfony-demo/config/bundles.php",
+		"/E/programs/openserver/domains/site/index.php",
+		"/E/programs/openserver/domains/tsum-tz/src/migrations/sql/0001_base.sql",
+		"/E/programs/openserver/domains/tsum-tz/src/migration.php",
+		"/E/programs/openserver/domains/tsum-tz/config/db.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp07740/var/www/protarif/data/www/test.protarif.info/include/loadBlock/load_region.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp59062/var/www/protarif/data/www/test.protarif.info/include/loadBlock/testcookie.txt",
+		"/C/Users/grantey/AppData/Local/Temp/scp09606/var/www/protarif/data/www/test.protarif.info/include/loadBlock/load_best.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp59747/var/www/protarif/data/www/test.protarif.info/include/loadBlock/testreg.txt",
+		"/E/Programs/openserver/domains/tsum-tz/.gitignore",
+		"/C/Users/grantey/OSPanel/domains/CentrsvAccount/.gitignore",
+		"/E/Programs/openserver/domains/tsum-tz/index.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp17236/var/www/protarif/data/www/test.protarif.info/include/loadBlock/testcookie.txt",
+		"/C/Users/grantey/AppData/Local/Temp/scp17272/var/www/protarif/data/www/test.protarif.info/include/loadBlock/testreg.txt",
+		"/C/Users/grantey/AppData/Local/Temp/scp12171/var/www/protarif/data/www/test.protarif.info/include/loadBlock/testcookie.txt",
+		"/C/Users/grantey/AppData/Local/Temp/scp13269/var/www/protarif/data/www/test.protarif.info/include/loadBlock/load_best.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp12952/var/www/protarif/data/www/test.protarif.info/include/loadBlock/testreg.txt",
+		"/C/Users/grantey/AppData/Local/Temp/scp13264/var/www/protarif/data/www/test.protarif.info/include/loadBlock/load_news.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp13900/var/www/protarif/data/www/test.protarif.info/include/loadBlock/load_region.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp01396/wp-content/themes/bridge/css/jquery.fancybox.min.css",
+		"/C/Users/grantey/AppData/Local/Temp/scp58953/public_html/dev-nik.grantey.ru/index.html",
+		"/C/Users/grantey/AppData/Local/Temp/scp36648/wp-content/uploads/carousel/8/г. Гомель, пр. Ленина, 35",
+		"/E/Downloads/fancybox-2.1.7/fancybox-2.1.7/composer.json",
+		"/C/Users/grantey/AppData/Local/Temp/scp07222/wp-content/themes/bridge/js/jquery.fancybox.min.js",
+		"/C/Users/grantey/AppData/Local/Temp/scp05511/wp-content/themes/bridge/css/fancybox/jquery.fancybox.min.css",
+		"/C/Users/grantey/AppData/Local/Temp/scp04299/wp-content/themes/bridge/functions.php",
+		"/E/Downloads/fancybox-2.1.7/fancybox-2.1.7/CHANGELOG.md",
+		"/C/Users/grantey/AppData/Local/Temp/scp46393/var/www/protarif/data/www/test.protarif.info/tarifs/include/chs_region.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp33927/var/www/protarif/data/www/test.protarif.info/tarifs/include/preloadRegion.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp25176/var/www/protarif/data/www/test.protarif-admin.ru/www/admin/option_edit.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp35553/var/www/protarif/data/www/test.protarif-admin.ru/engine/controller/tarif.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp42228/var/www/protarif/data/www/test.protarif-admin.ru/www/admin/tarif_edit.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp35041/var/www/protarif/data/www/test.protarif-admin.ru/engine/controller/option.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp25069/var/www/protarif/data/www/test.protarif-admin.ru/engine/controller/option.php",
+		"/C/Users/grantey/AppData/Local/Temp/scp44569/var/www/protarif/data/www/test.protarif-admin.ru/www/admin/classes/request.class.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"isLogged",
+			"isAuthenticated",
+			"checkSession",
+			"isLogged",
+			"getCurrentSessionHash",
+			"islogged",
+			"../images/fancybox",
+			"al-free-call-home-other",
+			"val-free-call-home-home",
+			"app_content",
+			"restaurant_list_current",
+			"show_bg",
+			"unlimited",
+			"громова"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\grantey\\OSPanel\\domains\\tsum-tz"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "front/components/forms/AuthForm.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2408,
+								2408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "web/api/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/warehouse/WarehouseController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								191
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/warehouse/Storage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/warehouse/Product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "src/warehouse/Authorization.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.285855588526,
+			0.726651856381,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
